@@ -1,0 +1,25 @@
+/*
+Theme Name:     Erik
+Author:         Erik Unger
+Author URI:     http://wirksameswebdesign.at
+Template:       twentyten
+Version:        1.0
+*/
+
+@import url('../twentyten/style.css');
+
+body {
+	font-family: Helvetica, Arial;
+}
+
+h3#comments-title, h3#reply-title, #access .menu, #access div.menu ul, #cancel-comment-reply-link, .form-allowed-tags, #site-info, #site-title, #wp-calendar, .comment-meta, .comment-body tr th, .comment-body thead th, .entry-content label, .entry-content tr th, .entry-content thead th, .entry-meta, .entry-title, .entry-utility, #respond label, .navigation, .page-title, .pingback p, .reply, .widget-title, .wp-caption-text {
+    font-family: Helvetica, Arial;
+}
+
+ul {
+    list-style: disc;
+}
+
+.widget-area ul ul {
+    list-style: circle;
+}
