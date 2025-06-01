@@ -1,0 +1,16 @@
+a:link, a:visited {
+	color: black;
+	text-decoration: none;
+}
+
+.noprint {
+	display:none;
+}
+
+th { 
+	/* border-right: 0; */
+}
+
+body {
+	font-size: 14px;
+}

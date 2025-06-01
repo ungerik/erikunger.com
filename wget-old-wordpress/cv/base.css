@@ -1,0 +1,38 @@
+/* Reset all white-space to 0 for consistency across browsers */
+* { margin: 0; padding: 0; }
+
+/* Default to some sans-serif font at a specific size */
+body { font-family: Verdana, Arial, sans-serif; font-size:14px; margin-left:20px; margin-right:20px }
+
+/* Get some padding between paragraphs and some line spacing */
+p { padding-bottom:1em; line-height:1.5em; }
+
+/* Put some padding back onto our list elements */
+ul, ol { margin-left: 10px; }
+li  { margin-left:10px; padding-left:2px; }
+
+/* Bye bye ugly blue border */
+a img { border: 0; }
+
+img, object { margin-top: 5px; }
+
+/* No dots around clicked links */
+a, a:active { outline: none; } 
+
+/* Class to any floated elements */
+.clear { clear:both; }
+
+.projects td { border: 12px solid #fff; }
+
+th {
+	width: 100px;
+	padding: 5px;
+	font-weight: normal;
+	border-left: 2px solid #aaa; 
+	border-top: 2px solid #aaa; 
+	border-bottom: 2px solid #aaa; 
+} 
+
+.print {
+	display:none;
+}

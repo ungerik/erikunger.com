@@ -1,0 +1,21 @@
+Swiss army knife of engineering looking for a short term challenge (freelance, mostly remote).
+
+Expirience:
+
+* Graphics Engine for a military Google Earth like project, now used for mission planing and in the cockpit map display of the Eurofighter Typhoon jet fighter.
+
+* Application for simulated driving on race tracks for realtime testing of car engines on test beds
+
+* Worked for two game studios. Game engine development and performance optimizations for PC, Xbox, Playstation, Wii
+
+* Developed the first high level web framework (like Django or Rails) for Go
+
+* Scaled chat server infrastructure for Reuters financial information system to 100k concurrent chats
+
+* Scaled a realtime bidding infrastructure for Google ads to millions of bids per day, billions per month
+
+* Won two prices for mobile app prototypes from the European Space Agency
+
+* Got into Embedded Linux, createded a consumer HW prototype, building own drone designs
+
+* Full Stack and Polyglot: Go, Dart, JS, Python, C, C++, C#, Objective-C, Java, PHP, Delphi, Shading Languages, x86-Assembler

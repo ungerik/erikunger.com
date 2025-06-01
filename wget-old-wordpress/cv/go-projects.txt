@@ -1,0 +1,12 @@
+https://github.com/ungerik/go-start A high level web-framework for Go
+https://github.com/ungerik/go3d A performance oriented 2D/3D math package for Go
+https://github.com/ungerik/go-rest A small and evil REST framework for Go
+https://github.com/ungerik/go-cairo Go binding for the cairo graphics library
+https://github.com/ungerik/go-dry DRY (don't repeat yourself) package for Go
+https://github.com/ungerik/pkgreflect A Go preprocessor for package scoped reflection
+https://github.com/ungerik/go-gravatar Go wrapper for the Gravatar API
+https://github.com/ungerik/go-amiando Go library for the Amiando event API
+https://github.com/ungerik/go-mail Email utilities for Go
+https://github.com/ungerik/go-rss Simple RSS parser for Go
+https://github.com/SpaceLeap/go-embedded Go package for embedded Linux development
+https://github.com/SpaceLeap/go-beaglebone Go package for the BeagleBone open source hardware
